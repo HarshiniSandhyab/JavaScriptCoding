@@ -1,0 +1,1 @@
+Write a function that takes an array of numbers and returns a new array with only the unique values, removing any duplicates.
